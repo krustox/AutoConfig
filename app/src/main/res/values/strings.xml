@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoConfig</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nota">Nota: </string>
+    <string name="latitud">Latitud: </string>
+    <string name="longitud">Longitud: </string>
+    <string name="proveedor">Proveedor: </string>
+    <string name="precision">Precision: </string>
+    <string name="altitud">Altitud: </string>
+    <string name="hora">Hora: </string>
+</resources>
